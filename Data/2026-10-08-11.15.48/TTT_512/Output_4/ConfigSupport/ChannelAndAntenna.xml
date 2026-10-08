@@ -1,0 +1,854 @@
+<UiStates>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="9">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="10">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="11">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="12">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="13">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="14">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="15">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="16">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="17">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="18">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="19">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="20">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="21">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="22">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="23">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="24">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="25">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="26">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="27">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="28">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="29">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="30">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="31">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="32">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="33">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="34">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="35">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="36">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="37">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="38">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="39">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="40">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="41">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="42">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="60" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="43">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="180" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Sector_gNB" DeviceId="44">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="2.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Sector Antenna" />
+    <Item ConfigName="ANTENNA_MODEL" UiType="ComboBox" Value="2D_Passive_Antenna_(per_3GPP_TR_37.840)" />
+    <Item ConfigName="BORESIGHT_ANGLE" UiType="TextBox" Value="300" />
+    <Item ConfigName="ELEMENT_GAIN" UiType="TextBox" Value="8" />
+    <Item ConfigName="FRONT_TO_BACK_RATIO" UiType="TextBox" Value="30" />
+    <Item ConfigName="BEAM_WIDTH" UiType="TextBox" Value="65" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="45">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="46">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="47">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="48">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="49">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="50">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="51">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="52">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="53">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="54">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="55">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+  <UiState Key="Macrocell_Omni_gNB" DeviceId="56">
+    <Item ConfigName="PATHLOSS_MODEL" UiType="ComboBox" Value="LOG_DISTANCE" />
+    <Item ConfigName="PATHLOSS_EXPONENT" UiType="TextBox" Value="3.9" />
+    <Item ConfigName="SHADOWFADING_MODEL" UiType="ComboBox" Value="LOGNORMAL" />
+    <Item ConfigName="STANDARD_DEVIATION" UiType="TextBox" Value="5" />
+    <Item ConfigName="CHANNEL_FADING_MODEL" UiType="ComboBox" Value="No_Fading" />
+    <Item ConfigName="CHANNEL_RANK" UiType="TextBlock" Value="Max_Rank" />
+    <Item ConfigName="MIMO_BEAMFORMING_MODEL" UiType="ComboBox" Value="Unit_Gain" />
+    <Item ConfigName="O2I_BUILDING_PENETRATION_MODEL" UiType="ComboBox" Value="LOW_LOSS_MODEL" />
+    <Item ConfigName="ADDITIONAL_LOSS_MODEL" UiType="ComboBox" Value="NONE" />
+    <Item ConfigName="TX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="RX_ANTENNA_COUNT" UiType="ComboBox" Value="1" />
+    <Item ConfigName="ANTENNA_TYPE" UiType="TextBlock" Value="Omnidirectional Antenna" />
+  </UiState>
+</UiStates>
